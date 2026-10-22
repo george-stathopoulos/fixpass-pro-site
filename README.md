@@ -1,1 +1,8 @@
-FixPass Pro hosted test website. Static public marketing assets only. Payments are simulated. No plugin downloads or private service source.
+# FixPass Pro website
+
+Public static marketing assets only. Hosted test with simulated payments.
+
+Website: https://george-stathopoulos.github.io/fixpass-pro-site/
+Portal: https://fixpass-pro.george-stathopoulos.workers.dev/
+
+No plugin package, backend, credentials or database is included.
