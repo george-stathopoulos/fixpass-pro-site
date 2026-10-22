@@ -4,3 +4,5 @@
 @media(max-width:760px){.pricing-grid{grid-template-columns:1fr}.panel,.price-card{padding:22px}.inline{flex-wrap:wrap}.inline>input{min-width:160px}.tiers button{font-size:11px}.portal-nav a{padding:10px 12px}.portal-main{padding-top:28px}.head-actions{gap:6px}.head-actions .btn{font-size:12px;padding:8px 10px}.price>span{font-size:48px}.summary{gap:18px}.site-row{flex-wrap:wrap}}
 
 .auth-nav{display:none!important}@media(max-width:1100px){.nav .auth-nav{display:block!important}}
+
+.annual-plans{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem;margin:1.5rem 0}.annual-plans button{padding:1.5rem 1rem;border:1px solid var(--line,#777);border-radius:16px;background:transparent;color:inherit;cursor:pointer;text-align:left}.annual-plans button.selected{border-color:#ffdc52;background:rgba(255,220,82,.1)}.annual-plans span,.annual-plans b{display:block;margin-top:.7rem}.annual-plans strong{font-size:1.4rem}.annual-plans b{font-size:1.6rem}@media(max-width:480px){.annual-plans{grid-template-columns:1fr}}
